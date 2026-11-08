@@ -450,6 +450,9 @@
         "blob/972afc77a44aac3c43906b30593ffb4ef6bc7c15.nq.gz",
         "blob/d45b459173d91026651e5c184b71b576c4bde535.nq.gz",
         "blob/0b660f83ed12a117ee973de59a88904f44b094f2.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/4d1c64bc077d725247e9bf5e2ac3f357749ff804/chunk-001.nq.gz"
       ]
     }
   ],

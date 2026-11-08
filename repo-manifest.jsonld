@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/mujoco_warp/commit/4d1c64bc077d725247e9bf5e2ac3f357749ff804",
       "git:hexsha": "4d1c64bc077d725247e9bf5e2ac3f357749ff804",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v4.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v4.0.0",
+      "repolex:parsedAt": "2026-11-08T10:35:33.413809+00:00"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/mujoco_warp/commit/9f07cb8fff0a58b211f91082849b0e0cc03b7b61",
